@@ -2,7 +2,7 @@
 # iOSPushNotification
 Send notification for iOS with Firebase in Python
 
-Use this code for send push notification to specific or group iOS device(s).
+Use this code to send push notification to specific or group iOS device(s).
 
 ## Installation
 
